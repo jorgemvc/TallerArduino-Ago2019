@@ -1,8 +1,8 @@
 # Taller Arduino - Feb 2019
-Programas utilizados en el Taller de Arduino. Julio 2019 (San Mateo)
+Programas utilizados en el Taller de Arduino. Agosto 2019 (Estudiantes UNED)
 
 ## Autor
-Jorge Villalobos Carvajal - Julio.2019
+Jorge Villalobos Carvajal - Agosto.2019
 
 ## Programas incluidos
 
