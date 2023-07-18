@@ -1,4 +1,4 @@
-# Taller Arduino - Ago 2019
+# Taller Arduino - Julio 2023
 Programas utilizados en el Taller de Arduino. Agosto 2019 (Estudiantes UNED)
 
 ## Autor
