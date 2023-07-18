@@ -1,5 +1,5 @@
 # Taller Arduino - Julio 2023
-Programas utilizados en el Taller de Arduino. Agosto 2019 (Estudiantes UNED)
+Programas utilizados en el Taller de Arduino. Julio 2023 (Estudiantes CTP Orotina)
 
 ## Autor
 Jorge Villalobos Carvajal - Agosto.2019
